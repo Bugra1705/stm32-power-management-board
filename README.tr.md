@@ -2,11 +2,6 @@
 
 **Diller:** [English](README.md) | Türkçe
 
-![Altium Designer](https://img.shields.io/badge/Altium-Designer-blue)
-![STM32](https://img.shields.io/badge/MCU-STM32F103-red)
-![Power](https://img.shields.io/badge/Guc-LM2576%20Buck-green)
-![Current Sensing](https://img.shields.io/badge/Olcum-ACS712%2030A-orange)
-![Wireless](https://img.shields.io/badge/Kablosuz-nRF24L01-yellowgreen)
 
 7.4 V (2S LiPo) batarya beslemesi altında çalışan, yüksek verimli güç yönetimi ve hassas telemetri özelliklerine sahip çok amaçlı bir gömülü kontrol platformu. Kart, kontrol ünitesini ve çevre birimlerini LM2576 tabanlı anahtarlamalı regülatörlerle üretilen **3.3 V ve 5 V hatları** üzerinden besler. **ACS712** ile gerçek zamanlı akım takibi ve ADC tabanlı pil voltajı ölçümü güç tüketimini kontrol altında tutarken; **nRF24L01** kablosuz desteği, servo çıkışları ve genişletme header'ları kartı farklı uygulamalar için açık ve programlanabilir bir taban haline getirir.
 
